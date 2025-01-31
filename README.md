@@ -1,3 +1,4 @@
+```
 public static void main(String args[])throws IOException {
         InputStreamReader r=new InputStreamReader(System.in);
         BufferedReader in=new BufferedReader(r);
@@ -21,6 +22,7 @@ public static void main(String args[])throws IOException {
             }
         }
 }
+```
 
 
 
@@ -28,8 +30,7 @@ public static void main(String args[])throws IOException {
 
 
 
-
-
+```
 public static void main(String args[])throws IOException {
         InputStreamReader r=new InputStreamReader(System.in);
         BufferedReader in=new BufferedReader(r);
@@ -72,6 +73,7 @@ public static void main(String args[])throws IOException {
         }
     }
 
+```
 
 
 
@@ -79,8 +81,7 @@ public static void main(String args[])throws IOException {
 
 
 
-
-
+```
     public static long[] prefixSum(int[] arr) {
             int n = arr.length;
             long[] prefixSum = new long[n];
@@ -185,7 +186,7 @@ public static void main(String args[])throws IOException {
     }
 
 
-
+```
     
 
 
